@@ -1,0 +1,17 @@
+{
+  "model": "pg_gtpp",
+  "seed": 43,
+  "parameters": 175048,
+  "test_auc": 0.7206611559703493,
+  "test_auprc": 0.5886527557624576,
+  "test_brier": 0.19433732330799103,
+  "test_ece": 0.0896357032595792,
+  "test_cindex": 0.6900105837134056,
+  "reference_test_nll": 2.015810012817383,
+  "integrated_test_nll": 1.695312037453201,
+  "val_auc": 0.6887052662300427,
+  "physics_nll": 1.6849086749568314,
+  "relative_nll_improvement": -0.006174437019048566,
+  "selection_objective": "fixed_training_budget",
+  "training_steps": 3000
+}

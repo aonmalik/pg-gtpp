@@ -1,0 +1,7877 @@
+[
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 9,
+    "event_time_delta_s": 27.343908309936523,
+    "event_cause_id": 0,
+    "nll": 4.254563193385323,
+    "physics_nll": 4.254563193385323
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.14098733009311476,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23826388995595954,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15741257027039995,
+    "physics_nll": 0.3848821975204761
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15272558277458403,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 10.163154602050781,
+    "event_cause_id": 0,
+    "nll": 4.099243111116826,
+    "physics_nll": 4.099243111116826
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 26,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15289243557307308,
+    "physics_nll": 0.5714186268793104
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 27,
+    "event_time_delta_s": 9.649158477783203,
+    "event_cause_id": 0,
+    "nll": 3.748179039049987,
+    "physics_nll": 3.748179039049987
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 17,
+    "event_time_delta_s": 11.831289291381836,
+    "event_cause_id": 3,
+    "nll": 5.016532545078864,
+    "physics_nll": 5.016532545078864
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.41700033436482176,
+    "physics_nll": 0.23205053463167424
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.01301794461595,
+    "physics_nll": 0.3771761060929506
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 8,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.8006588994672058,
+    "physics_nll": 1.041594090112216
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19993965345992099,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.4061206392342211,
+    "physics_nll": 0.7098308984798652
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 28,
+    "event_time_delta_s": 26.89375114440918,
+    "event_cause_id": 0,
+    "nll": 4.306973133490875,
+    "physics_nll": 4.306973133490875
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 9,
+    "event_time_delta_s": 17.343908309936523,
+    "event_cause_id": 0,
+    "nll": 3.9360848431632074,
+    "physics_nll": 3.9360848431632074
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.14140750806685443,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.160175427429253,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15450127743546285,
+    "physics_nll": 0.3848821975204761
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1501506320082176,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 0.16315478086471558,
+    "event_cause_id": 0,
+    "nll": 3.8601188085048923,
+    "physics_nll": 3.8601188085048923
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 26,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.14003106725649783,
+    "physics_nll": 0.5714186268793104
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 17,
+    "event_time_delta_s": 1.8312891721725464,
+    "event_cause_id": 3,
+    "nll": 4.949916785690098,
+    "physics_nll": 4.949916785690098
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.31937815069076914,
+    "physics_nll": 0.23205053463167424
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 22.01381492614746,
+    "event_cause_id": 0,
+    "nll": 4.277733615799688,
+    "physics_nll": 4.277733615799688
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 8,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.8865264451060261,
+    "physics_nll": 1.041594090112216
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19690789523843605,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.4018514803702561,
+    "physics_nll": 0.7098308984798652
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 28,
+    "event_time_delta_s": 16.89375114440918,
+    "event_cause_id": 0,
+    "nll": 4.128754764160147,
+    "physics_nll": 4.128754764160147
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 9,
+    "event_time_delta_s": 7.34390926361084,
+    "event_cause_id": 0,
+    "nll": 3.6113894619374336,
+    "physics_nll": 3.6113894619374336
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15363795949172912,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.14419829728084016,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15677069881875183,
+    "physics_nll": 0.3848821975204761
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.14528766893660378,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 26,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.13763580243572912,
+    "physics_nll": 0.5714186268793104
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23814011340377206,
+    "physics_nll": 0.21860088968657632
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.25954234949302607,
+    "physics_nll": 0.23205053463167424
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 12.013813972473145,
+    "event_cause_id": 0,
+    "nll": 3.9450955867537356,
+    "physics_nll": 3.9450955867537356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 8,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.9669654141269716,
+    "physics_nll": 1.041594090112216
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1977997373526826,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.39260430431498433,
+    "physics_nll": 0.7098308984798652
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 28,
+    "event_time_delta_s": 6.8937506675720215,
+    "event_cause_id": 0,
+    "nll": 3.930047300991118,
+    "physics_nll": 3.930047300991118
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1571637478488543,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.14347603333588654,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 21.30873680114746,
+    "event_cause_id": 1,
+    "nll": 5.2156502755178265,
+    "physics_nll": 5.2156502755178265
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1365932572212255,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 26,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.13097023949524328,
+    "physics_nll": 0.5714186268793104
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2200504582322823,
+    "physics_nll": 0.21860088968657632
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21851772058944588,
+    "physics_nll": 0.23205053463167424
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 2.0138139724731445,
+    "event_cause_id": 0,
+    "nll": 3.6453525274534013,
+    "physics_nll": 3.6453525274534013
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 8,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.041594090112216,
+    "physics_nll": 1.041594090112216
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.17722316254559561,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.3805080994008604,
+    "physics_nll": 0.7098308984798652
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 10.736882209777832,
+    "event_cause_id": 0,
+    "nll": 3.7255345891805165,
+    "physics_nll": 3.7255345891805165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1609309917158313,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.16233611262163827,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 11.308736801147461,
+    "event_cause_id": 1,
+    "nll": 5.1712505349968,
+    "physics_nll": 5.1712505349968
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.13954185975445105,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 26,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.14576473453072225,
+    "physics_nll": 0.5714186268793104
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21860088968657632,
+    "physics_nll": 0.21860088968657632
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21123105979856094,
+    "physics_nll": 0.23205053463167424
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 8,
+    "event_time_delta_s": 20.907676696777344,
+    "event_cause_id": 0,
+    "nll": 3.9627265511611083,
+    "physics_nll": 3.9627265511611083
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.17589335408712015,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.3873245567423294,
+    "physics_nll": 0.7098308984798652
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 0,
+    "edge_dst": 1,
+    "event_time_delta_s": 8.631585121154785,
+    "event_cause_id": 0,
+    "nll": 3.5959416307295653,
+    "physics_nll": 3.5959416307295653
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 0.7368825674057007,
+    "event_cause_id": 0,
+    "nll": 3.3520780241888843,
+    "physics_nll": 3.3520780241888843
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15968672809062467,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 26.37006187438965,
+    "event_cause_id": 3,
+    "nll": 5.334004598971803,
+    "physics_nll": 5.334004598971803
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 1.3087366819381714,
+    "event_cause_id": 1,
+    "nll": 5.117704498549973,
+    "physics_nll": 5.117704498549973
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.13788332800898057,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 26,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.14750956694785514,
+    "physics_nll": 0.5714186268793104
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 17,
+    "event_time_delta_s": 25.62183380126953,
+    "event_cause_id": 3,
+    "nll": 5.1874660179720085,
+    "physics_nll": 5.1874660179720085
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2087383724031023,
+    "physics_nll": 0.23205053463167424
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 8,
+    "event_time_delta_s": 10.90767765045166,
+    "event_cause_id": 0,
+    "nll": 3.6103256571752387,
+    "physics_nll": 3.6103256571752387
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.17371700486115899,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.40649525418576815,
+    "physics_nll": 0.7098308984798652
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.16289421241332247,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 16.37006187438965,
+    "event_cause_id": 3,
+    "nll": 5.291969424317348,
+    "physics_nll": 5.291969424317348
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15761298583600086,
+    "physics_nll": 0.3848821975204761
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 22.494718551635742,
+    "event_cause_id": 0,
+    "nll": 4.219055147390243,
+    "physics_nll": 4.219055147390243
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 29.040287017822266,
+    "event_cause_id": 3,
+    "nll": 5.4461293004258895,
+    "physics_nll": 5.4461293004258895
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 26,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1646610246789212,
+    "physics_nll": 0.5714186268793104
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 17,
+    "event_time_delta_s": 15.621834754943848,
+    "event_cause_id": 3,
+    "nll": 5.11871368120577,
+    "physics_nll": 5.11871368120577
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2073379751939607,
+    "physics_nll": 0.23205053463167424
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 8,
+    "event_time_delta_s": 0.907677412033081,
+    "event_cause_id": 0,
+    "nll": 3.228971499347875,
+    "physics_nll": 3.228971499347875
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.17243420248488836,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.43700560340835165,
+    "physics_nll": 0.7098308984798652
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15245720599863447,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 6.370062828063965,
+    "event_cause_id": 3,
+    "nll": 5.234550522585188,
+    "physics_nll": 5.234550522585188
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15733887562653942,
+    "physics_nll": 0.3848821975204761
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 12.494717597961426,
+    "event_cause_id": 0,
+    "nll": 3.838246522414196,
+    "physics_nll": 3.838246522414196
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 19.040287017822266,
+    "event_cause_id": 3,
+    "nll": 5.399207390018364,
+    "physics_nll": 5.399207390018364
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 26,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2130094189368072,
+    "physics_nll": 0.5714186268793104
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.0847393652166148,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 17,
+    "event_time_delta_s": 5.6218342781066895,
+    "event_cause_id": 3,
+    "nll": 5.047301936429465,
+    "physics_nll": 5.047301936429465
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21252295622390277,
+    "physics_nll": 0.23205053463167424
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18379060726847893,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.48559919965291365,
+    "physics_nll": 0.7098308984798652
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.14924551189273094,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.16347301034531375,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.16840435320999053,
+    "physics_nll": 0.3848821975204761
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 2.494717597961426,
+    "event_cause_id": 0,
+    "nll": 3.492625034120648,
+    "physics_nll": 3.492625034120648
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 9.04028606414795,
+    "event_cause_id": 3,
+    "nll": 5.351613080888339,
+    "physics_nll": 5.351613080888339
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 26,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.3155485399997847,
+    "physics_nll": 0.5714186268793104
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.9751887922247168,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 29.7083683013916,
+    "event_cause_id": 3,
+    "nll": 5.112260389007162,
+    "physics_nll": 5.112260389007162
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19488632924468308,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.5425153732362289,
+    "physics_nll": 0.7098308984798652
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.14721569132692944,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.14961461117004896,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1642035560876195,
+    "physics_nll": 0.3848821975204761
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15154496503611958,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 26,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.43165090626888675,
+    "physics_nll": 0.5714186268793104
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.860929193918935,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 19.7083683013916,
+    "event_cause_id": 3,
+    "nll": 5.054718720124072,
+    "physics_nll": 5.054718720124072
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19726068420716422,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.6043068925620942,
+    "physics_nll": 0.7098308984798652
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.16013766737165397,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15385197120189328,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.17217670314768418,
+    "physics_nll": 0.3848821975204761
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1584453070471169,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.16432950959905623,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 26,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.5714186268793104,
+    "physics_nll": 0.5714186268793104
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.7445697652753072,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 9.708368301391602,
+    "event_cause_id": 3,
+    "nll": 4.975457008816776,
+    "physics_nll": 4.975457008816776
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18744591013744283,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.6534684517347431,
+    "physics_nll": 0.7098308984798652
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 0,
+    "edge_dst": 1,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.452261300411509,
+    "physics_nll": 1.0055699136226435
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1593717247315576,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.14549991135577092,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.157836534614405,
+    "physics_nll": 0.3848821975204761
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15301578763110749,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.16327191916942901,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 26,
+    "event_time_delta_s": 24.191125869750977,
+    "event_cause_id": 0,
+    "nll": 4.135766050911341,
+    "physics_nll": 4.135766050911341
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.6091178188889513,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19013421988560983,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.7098308984798652,
+    "physics_nll": 0.7098308984798652
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 0,
+    "edge_dst": 1,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.49662090084892824,
+    "physics_nll": 1.0055699136226435
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.16344322505980968,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 0.14422547817230225,
+    "event_cause_id": 0,
+    "nll": 3.22893202907961,
+    "physics_nll": 3.22893202907961
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.16338450712981997,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1608365567078357,
+    "physics_nll": 0.3848821975204761
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1548512395540665,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.17621941406679456,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 26,
+    "event_time_delta_s": 14.191125869750977,
+    "event_cause_id": 0,
+    "nll": 3.948759006585489,
+    "physics_nll": 3.948759006585489
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.46491812870578386,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 14.828836441040039,
+    "event_cause_id": 0,
+    "nll": 3.8629551348878532,
+    "physics_nll": 3.8629551348878532
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21885087720816834,
+    "physics_nll": 0.3771761060929506
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1886240821793101,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 24,
+    "event_time_delta_s": 25.28961944580078,
+    "event_cause_id": 0,
+    "nll": 4.218376437464764,
+    "physics_nll": 4.218376437464764
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 0,
+    "edge_dst": 1,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.5266217155048307,
+    "physics_nll": 1.0055699136226435
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.16173326356893653,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15541013033899703,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1460986942988729,
+    "physics_nll": 0.3848821975204761
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1510719273682008,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1625801603182508,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 26,
+    "event_time_delta_s": 4.191125869750977,
+    "event_cause_id": 0,
+    "nll": 3.7169432128330238,
+    "physics_nll": 3.7169432128330238
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.3318046414374296,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 4.828836441040039,
+    "event_cause_id": 0,
+    "nll": 3.448514269329373,
+    "physics_nll": 3.448514269329373
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21822931152178549,
+    "physics_nll": 0.23205053463167424
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2238392114465682,
+    "physics_nll": 0.3771761060929506
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18200594166470083,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 24,
+    "event_time_delta_s": 15.289618492126465,
+    "event_cause_id": 0,
+    "nll": 3.972801493297203,
+    "physics_nll": 3.972801493297203
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 0,
+    "edge_dst": 1,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.5622625798589493,
+    "physics_nll": 1.0055699136226435
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.16824958227571785,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.16456333731287964,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1545833654623885,
+    "physics_nll": 0.3848821975204761
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.14732188132759855,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15561414673323604,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 28.433496475219727,
+    "event_cause_id": 3,
+    "nll": 5.18226079454584,
+    "physics_nll": 5.18226079454584
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 8,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2277044050911279,
+    "physics_nll": 0.2236751426242336
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21697441120201982,
+    "physics_nll": 0.23205053463167424
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22455010185298827,
+    "physics_nll": 0.3771761060929506
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1757648391141185,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 24,
+    "event_time_delta_s": 5.289618492126465,
+    "event_cause_id": 0,
+    "nll": 3.7208250777171568,
+    "physics_nll": 3.7208250777171568
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 0,
+    "edge_dst": 1,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.6532606988506635,
+    "physics_nll": 1.0055699136226435
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15951819575561976,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1634692749305019,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.14950961210658403,
+    "physics_nll": 0.3848821975204761
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15517230211209304,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.14755474587077605,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 18.433496475219727,
+    "event_cause_id": 3,
+    "nll": 5.086535861735575,
+    "physics_nll": 5.086535861735575
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 8,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22400615710481328,
+    "physics_nll": 0.2236751426242336
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21924444724910955,
+    "physics_nll": 0.23205053463167424
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2268619347417171,
+    "physics_nll": 0.3771761060929506
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18265370368324416,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 0,
+    "edge_dst": 1,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.904309227941481,
+    "physics_nll": 1.0055699136226435
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15868515121445928,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1712507494341431,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1649720322160974,
+    "physics_nll": 0.3848821975204761
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19191310584955334,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15389604929727219,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 8.433496475219727,
+    "event_cause_id": 3,
+    "nll": 5.011158517550428,
+    "physics_nll": 5.011158517550428
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.1889678754532218,
+    "physics_nll": 0.7577928414783169
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 8,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2293050796613293,
+    "physics_nll": 0.2236751426242336
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2201584385477864,
+    "physics_nll": 0.23205053463167424
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22323992560901548,
+    "physics_nll": 0.3771761060929506
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 11.150615692138672,
+    "event_cause_id": 0,
+    "nll": 3.640064787425487,
+    "physics_nll": 3.640064787425487
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19241025731857675,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 0,
+    "edge_dst": 1,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.2871024361699348,
+    "physics_nll": 1.0055699136226435
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1508502999269144,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15528293878298377,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.16814034757682617,
+    "physics_nll": 0.3848821975204761
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.26162231764618865,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15512388980415098,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 22.403886795043945,
+    "event_cause_id": 0,
+    "nll": 4.172429582074448,
+    "physics_nll": 4.172429582074448
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 8,
+    "event_time_delta_s": 27.79374885559082,
+    "event_cause_id": 3,
+    "nll": 5.0582816976527125,
+    "physics_nll": 5.0582816976527125
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23246162659133046,
+    "physics_nll": 0.23205053463167424
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2248560690728456,
+    "physics_nll": 0.3771761060929506
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 1.1506155729293823,
+    "event_cause_id": 0,
+    "nll": 3.220997063501542,
+    "physics_nll": 3.220997063501542
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 10,
+    "event_time_delta_s": 6.681766033172607,
+    "event_cause_id": 0,
+    "nll": 3.4987810692716543,
+    "physics_nll": 3.4987810692716543
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 28.789052963256836,
+    "event_cause_id": 3,
+    "nll": 5.248577000479133,
+    "physics_nll": 5.248577000479133
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 0,
+    "edge_dst": 1,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.7092059155706556,
+    "physics_nll": 1.0055699136226435
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15699582438198478,
+    "physics_nll": 0.6156860958061156
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1524625182589929,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.155108831027818,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.17549133579106446,
+    "physics_nll": 0.3848821975204761
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.3805157940859958,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.16219041385112726,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 12.403886795043945,
+    "event_cause_id": 0,
+    "nll": 3.7799429144836125,
+    "physics_nll": 3.7799429144836125
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 8,
+    "event_time_delta_s": 17.79374885559082,
+    "event_cause_id": 3,
+    "nll": 4.98075408612698,
+    "physics_nll": 4.98075408612698
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2331350969583903,
+    "physics_nll": 0.23205053463167424
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22315300613663674,
+    "physics_nll": 0.3771761060929506
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 18.789052963256836,
+    "event_cause_id": 3,
+    "nll": 5.183516287031898,
+    "physics_nll": 5.183516287031898
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 0,
+    "edge_dst": 1,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 2.0782654763227395,
+    "physics_nll": 1.0055699136226435
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1544267159018196,
+    "physics_nll": 0.6156860958061156
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1545823134039589,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.14883767275137483,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.16910680154155505,
+    "physics_nll": 0.3848821975204761
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.49654447072174085,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1696235874932006,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23675473889392235,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 2.403886556625366,
+    "event_cause_id": 0,
+    "nll": 3.404749607159942,
+    "physics_nll": 3.404749607159942
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 8,
+    "event_time_delta_s": 7.79374885559082,
+    "event_cause_id": 3,
+    "nll": 4.905055415940689,
+    "physics_nll": 4.905055415940689
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.27479325437238283,
+    "physics_nll": 0.23205053463167424
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22527867185039802,
+    "physics_nll": 0.3771761060929506
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 8.78905200958252,
+    "event_cause_id": 3,
+    "nll": 5.1237646292557475,
+    "physics_nll": 5.1237646292557475
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15192575057149266,
+    "physics_nll": 0.6156860958061156
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.20414668870073827,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.14997955919269673,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1627040580836277,
+    "physics_nll": 0.3848821975204761
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.6066526635995859,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.16592493788204016,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23222062410794406,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 27.03139305114746,
+    "event_cause_id": 0,
+    "nll": 4.491235195499767,
+    "physics_nll": 4.491235195499767
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22530694533548046,
+    "physics_nll": 0.3771761060929506
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 8.890044212341309,
+    "event_cause_id": 3,
+    "nll": 4.964519170524802,
+    "physics_nll": 4.964519170524802
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 26.119163513183594,
+    "event_cause_id": 3,
+    "nll": 5.151429604900619,
+    "physics_nll": 5.151429604900619
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.3191837019935324,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.16123706181662567,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18927412946079253,
+    "physics_nll": 0.3848821975204761
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 20.07416343688965,
+    "event_cause_id": 0,
+    "nll": 4.1083056157296864,
+    "physics_nll": 4.1083056157296864
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 20.744243621826172,
+    "event_cause_id": 0,
+    "nll": 4.216810642022698,
+    "physics_nll": 4.216810642022698
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1748902083811033,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2145354804164295,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 8,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.20941127228837,
+    "physics_nll": 0.2236751426242336
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 17.03139305114746,
+    "event_cause_id": 0,
+    "nll": 4.400950772750705,
+    "physics_nll": 4.400950772750705
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21345834190047158,
+    "physics_nll": 0.3771761060929506
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1858063578626285,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 16.119163513183594,
+    "event_cause_id": 3,
+    "nll": 5.107390755007549,
+    "physics_nll": 5.107390755007549
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.4443332830477116,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15805402189482237,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2536506021858075,
+    "physics_nll": 0.3848821975204761
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 10.074164390563965,
+    "event_cause_id": 0,
+    "nll": 3.905480450559745,
+    "physics_nll": 3.905480450559745
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 10.744243621826172,
+    "event_cause_id": 0,
+    "nll": 3.846131386321861,
+    "physics_nll": 3.846131386321861
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1627547968708908,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22420285399125534,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 5,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.2977074728639244,
+    "physics_nll": 1.340577696179895
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 8,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22224829923277964,
+    "physics_nll": 0.2236751426242336
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 7.031393527984619,
+    "event_cause_id": 0,
+    "nll": 4.293089834321728,
+    "physics_nll": 4.293089834321728
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22526552289561141,
+    "physics_nll": 0.3771761060929506
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 3.192368507385254,
+    "event_cause_id": 0,
+    "nll": 3.359787287635599,
+    "physics_nll": 3.359787287635599
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.17792984951669225,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 6.11916446685791,
+    "event_cause_id": 3,
+    "nll": 5.04490174593274,
+    "physics_nll": 5.04490174593274
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.5868282579800433,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.17976487858820203,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.3848821975204761,
+    "physics_nll": 0.3848821975204761
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 0.07416409999132156,
+    "event_cause_id": 0,
+    "nll": 3.666039846433496,
+    "physics_nll": 3.666039846433496
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 0.7442439794540405,
+    "event_cause_id": 0,
+    "nll": 3.520360292664454,
+    "physics_nll": 3.520360292664454
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.17534140630849387,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22382113718358443,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 5,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.340577696179895,
+    "physics_nll": 1.340577696179895
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 8,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23009310637508812,
+    "physics_nll": 0.2236751426242336
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22422235220783382,
+    "physics_nll": 0.30892327909260164
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23074368509619228,
+    "physics_nll": 0.3771761060929506
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18052874130205682,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.6959954951912746,
+    "physics_nll": 0.6959954951912746
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1620174781815983,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 25.31620979309082,
+    "event_cause_id": 0,
+    "nll": 4.23658746593774,
+    "physics_nll": 4.23658746593774
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1491757331676581,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22152463119549304,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 8,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22858623455133661,
+    "physics_nll": 0.2236751426242336
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21548016996713446,
+    "physics_nll": 0.30892327909260164
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 24.48760414123535,
+    "event_cause_id": 3,
+    "nll": 4.973540944020278,
+    "physics_nll": 4.973540944020278
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18406980704564607,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1772631754032658,
+    "physics_nll": 0.6156860958061156
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 20.520051956176758,
+    "event_cause_id": 0,
+    "nll": 4.019846227016093,
+    "physics_nll": 4.019846227016093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.17418197369052746,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 15.31620979309082,
+    "event_cause_id": 0,
+    "nll": 4.1008335195522925,
+    "physics_nll": 4.1008335195522925
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1713429696783108,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.16215068933612636,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23045356650526871,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 8,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22418704614940052,
+    "physics_nll": 0.2236751426242336
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21116103932035335,
+    "physics_nll": 0.30892327909260164
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 14.487604141235352,
+    "event_cause_id": 3,
+    "nll": 4.900306906266612,
+    "physics_nll": 4.900306906266612
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.20486018970281028,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.15492733427787747,
+    "physics_nll": 0.6156860958061156
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 10.520051956176758,
+    "event_cause_id": 0,
+    "nll": 3.784665341167501,
+    "physics_nll": 3.784665341167501
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2039135822843565,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 18,
+    "event_time_delta_s": 5.31620979309082,
+    "event_cause_id": 0,
+    "nll": 3.929766945197172,
+    "physics_nll": 3.929766945197172
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.16430319605704785,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1512498480593977,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2488037739011833,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 8,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23703936800221298,
+    "physics_nll": 0.2236751426242336
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2391224090489351,
+    "physics_nll": 0.30892327909260164
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 4.487604141235352,
+    "event_cause_id": 3,
+    "nll": 4.82682450169184,
+    "physics_nll": 4.82682450169184
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2836311917673363,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.16114845791033358,
+    "physics_nll": 0.6156860958061156
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 12,
+    "event_time_delta_s": 0.5200521945953369,
+    "event_cause_id": 0,
+    "nll": 3.5112298949743983,
+    "physics_nll": 3.5112298949743983
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.30325499258314836,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18891891055924404,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.17719411961618317,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23086733594778752,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 8,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21368674678682742,
+    "physics_nll": 0.2236751426242336
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2331164360500178,
+    "physics_nll": 0.30892327909260164
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.4134105599104339,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.14957961770170042,
+    "physics_nll": 0.6156860958061156
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.42323733649060485,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.17203805149120988,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1723486923107488,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2277143646098232,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 8,
+    "event_time_delta_s": 21.791128158569336,
+    "event_cause_id": 3,
+    "nll": 5.1230797374529615,
+    "physics_nll": 5.1230797374529615
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2361062271605797,
+    "physics_nll": 0.30892327909260164
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 22,
+    "event_time_delta_s": 25.034841537475586,
+    "event_cause_id": 0,
+    "nll": 4.329910140667858,
+    "physics_nll": 4.329910140667858
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23388472899801052,
+    "physics_nll": 0.23205053463167424
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 20.495819091796875,
+    "event_cause_id": 3,
+    "nll": 5.215708293182086,
+    "physics_nll": 5.215708293182086
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.5517890709829488,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.16754171324655917,
+    "physics_nll": 0.6156860958061156
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.5721663482142856,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.17473009357027294,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21933734156264006,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23799160411409312,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 8,
+    "event_time_delta_s": 11.79112720489502,
+    "event_cause_id": 3,
+    "nll": 5.047558426960615,
+    "physics_nll": 5.047558426960615
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24486951547051705,
+    "physics_nll": 0.30892327909260164
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 22,
+    "event_time_delta_s": 15.034841537475586,
+    "event_cause_id": 0,
+    "nll": 3.9114791231939887,
+    "physics_nll": 3.9114791231939887
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2399470630062943,
+    "physics_nll": 0.23205053463167424
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 10.495820045471191,
+    "event_cause_id": 3,
+    "nll": 5.139293164004465,
+    "physics_nll": 5.139293164004465
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.6746186955736415,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1664396237371105,
+    "physics_nll": 0.6156860958061156
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.6982337777545703,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.173431049729025,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2931607767534572,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22455268397929912,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 8,
+    "event_time_delta_s": 1.7911275625228882,
+    "event_cause_id": 3,
+    "nll": 4.976614545779743,
+    "physics_nll": 4.976614545779743
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23942096940714447,
+    "physics_nll": 0.30892327909260164
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 22,
+    "event_time_delta_s": 5.034841537475586,
+    "event_cause_id": 0,
+    "nll": 3.530798002018925,
+    "physics_nll": 3.530798002018925
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23205053463167424,
+    "physics_nll": 0.23205053463167424
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 0.4958198070526123,
+    "event_cause_id": 3,
+    "nll": 5.068420856557827,
+    "physics_nll": 5.068420856557827
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.7983584178596944,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18419883815957477,
+    "physics_nll": 0.6156860958061156
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.8359913303491778,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 22.546979904174805,
+    "event_cause_id": 0,
+    "nll": 4.818738223663305,
+    "physics_nll": 4.818738223663305
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.426925980706776,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22053878265892485,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 8,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2236751426242336,
+    "physics_nll": 0.2236751426242336
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2211125723362767,
+    "physics_nll": 0.30892327909260164
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 24.489843368530273,
+    "event_cause_id": 3,
+    "nll": 5.014991795162336,
+    "physics_nll": 5.014991795162336
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21716596764112173,
+    "physics_nll": 0.3771761060929506
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 16.581241607666016,
+    "event_cause_id": 3,
+    "nll": 4.935115143518469,
+    "physics_nll": 4.935115143518469
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.9068647924070237,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18264828773039032,
+    "physics_nll": 0.6156860958061156
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.9475500927208934,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 12.546978950500488,
+    "event_cause_id": 0,
+    "nll": 4.762204307841508,
+    "physics_nll": 4.762204307841508
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.5498743848100623,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22104283541413056,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 26.394819259643555,
+    "event_cause_id": 3,
+    "nll": 5.034814208327956,
+    "physics_nll": 5.034814208327956
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 8,
+    "event_time_delta_s": 24.30046844482422,
+    "event_cause_id": 3,
+    "nll": 5.113740113597513,
+    "physics_nll": 5.113740113597513
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2159384179469967,
+    "physics_nll": 0.30892327909260164
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 14.489843368530273,
+    "event_cause_id": 3,
+    "nll": 4.934326818570727,
+    "physics_nll": 4.934326818570727
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 23.9346923828125,
+    "event_cause_id": 3,
+    "nll": 4.836762746698776,
+    "physics_nll": 4.836762746698776
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.221338014949229,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 6.581242084503174,
+    "event_cause_id": 3,
+    "nll": 4.8703356753135,
+    "physics_nll": 4.8703356753135
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.0136734136436165,
+    "physics_nll": 1.0136734136436165
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18555844665949056,
+    "physics_nll": 0.6156860958061156
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.055186998936112,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 2.5469794273376465,
+    "event_cause_id": 0,
+    "nll": 4.689138151349023,
+    "physics_nll": 4.689138151349023
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.16781365688244193,
+    "physics_nll": 0.9937153994102583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.6815517122888256,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2647227144668398,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 16.394819259643555,
+    "event_cause_id": 3,
+    "nll": 4.957188301128295,
+    "physics_nll": 4.957188301128295
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 8,
+    "event_time_delta_s": 14.300468444824219,
+    "event_cause_id": 3,
+    "nll": 5.030175550376971,
+    "physics_nll": 5.030175550376971
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2233288985684163,
+    "physics_nll": 0.30892327909260164
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 24,
+    "event_time_delta_s": 4.489843368530273,
+    "event_cause_id": 3,
+    "nll": 4.862689525591665,
+    "physics_nll": 4.862689525591665
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 13.9346923828125,
+    "event_cause_id": 3,
+    "nll": 4.766032142035754,
+    "physics_nll": 4.766032142035754
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24088788582968268,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 20.52852439880371,
+    "event_cause_id": 0,
+    "nll": 3.961222458824175,
+    "physics_nll": 3.961222458824175
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 0,
+    "edge_dst": 2,
+    "event_time_delta_s": 26.158546447753906,
+    "event_cause_id": 2,
+    "nll": 4.4427846167761285,
+    "physics_nll": 4.4427846167761285
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1915648915713355,
+    "physics_nll": 0.6156860958061156
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.1567718521024795,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1635975641668178,
+    "physics_nll": 0.9937153994102583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.7960978563849621,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.32478603361522407,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 6.394818305969238,
+    "event_cause_id": 3,
+    "nll": 4.882117286943145,
+    "physics_nll": 4.882117286943145
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 8,
+    "event_time_delta_s": 4.300468921661377,
+    "event_cause_id": 3,
+    "nll": 4.951746716808395,
+    "physics_nll": 4.951746716808395
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2291678171124803,
+    "physics_nll": 0.30892327909260164
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 3.9346923828125,
+    "event_cause_id": 3,
+    "nll": 4.689780081727697,
+    "physics_nll": 4.689780081727697
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23539652287460466,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1957643622294133,
+    "physics_nll": 0.38594760185967025
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 10.528525352478027,
+    "event_cause_id": 0,
+    "nll": 3.622186143568931,
+    "physics_nll": 3.622186143568931
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 0,
+    "edge_dst": 2,
+    "event_time_delta_s": 16.158546447753906,
+    "event_cause_id": 2,
+    "nll": 4.194905063293753,
+    "physics_nll": 4.194905063293753
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24849425571024997,
+    "physics_nll": 0.6156860958061156
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.2530357890229638,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.17188498005045066,
+    "physics_nll": 0.9937153994102583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.9196196439540862,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.4433133988906591,
+    "physics_nll": 0.4433133988906591
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24409253680862786,
+    "physics_nll": 0.30892327909260164
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24084643310236514,
+    "physics_nll": 0.3771761060929506
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2407482394448205,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19097790392737501,
+    "physics_nll": 0.38594760185967025
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 17,
+    "event_time_delta_s": 0.5285253524780273,
+    "event_cause_id": 0,
+    "nll": 3.2441168159874763,
+    "physics_nll": 3.2441168159874763
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 0,
+    "edge_dst": 2,
+    "event_time_delta_s": 6.1585469245910645,
+    "event_cause_id": 2,
+    "nll": 3.9560706033150153,
+    "physics_nll": 3.9560706033150153
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.3516591092303978,
+    "physics_nll": 0.6156860958061156
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.3451708644465739,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.17599720962566612,
+    "physics_nll": 0.9937153994102583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.0332391655122801,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 26.674163818359375,
+    "event_cause_id": 0,
+    "nll": 4.222050271058264,
+    "physics_nll": 4.222050271058264
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 8.15213394165039,
+    "event_cause_id": 3,
+    "nll": 4.913272935593216,
+    "physics_nll": 4.913272935593216
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23890973470845578,
+    "physics_nll": 0.30892327909260164
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2746760904460846,
+    "physics_nll": 0.3771761060929506
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23119188020755108,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18554175846399007,
+    "physics_nll": 0.38594760185967025
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 0,
+    "edge_dst": 2,
+    "event_time_delta_s": 0.7463723421096802,
+    "event_cause_id": 2,
+    "nll": 3.7983330923073826,
+    "physics_nll": 3.7983330923073826
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.48517907871968624,
+    "physics_nll": 0.6156860958061156
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1827794536623838,
+    "physics_nll": 0.9937153994102583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.1520950120967648,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 16.674163818359375,
+    "event_cause_id": 0,
+    "nll": 4.059999652842779,
+    "physics_nll": 4.059999652842779
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22433792688044307,
+    "physics_nll": 0.7577928414783169
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2471850601782602,
+    "physics_nll": 0.30892327909260164
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.3771761060929506,
+    "physics_nll": 0.3771761060929506
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22912731171309964,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.20061249014769839,
+    "physics_nll": 0.38594760185967025
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.6156860958061156,
+    "physics_nll": 0.6156860958061156
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18555832253718324,
+    "physics_nll": 0.9937153994102583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.2613539887141583,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 4,
+    "event_time_delta_s": 6.674163818359375,
+    "event_cause_id": 0,
+    "nll": 3.877944437679091,
+    "physics_nll": 3.877944437679091
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2199560623838901,
+    "physics_nll": 0.7577928414783169
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2395683315051513,
+    "physics_nll": 0.30892327909260164
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 27.905441284179688,
+    "event_cause_id": 0,
+    "nll": 4.200592836857622,
+    "physics_nll": 4.200592836857622
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22003589185765987,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 28.395519256591797,
+    "event_cause_id": 3,
+    "nll": 5.385207008881622,
+    "physics_nll": 5.385207008881622
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 25.353872299194336,
+    "event_cause_id": 0,
+    "nll": 4.129936875846607,
+    "physics_nll": 4.129936875846607
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1843800469152212,
+    "physics_nll": 0.9937153994102583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.361402809121649,
+    "physics_nll": 1.361402809121649
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23838276093074556,
+    "physics_nll": 0.7577928414783169
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2592307460006414,
+    "physics_nll": 0.30892327909260164
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 17.905441284179688,
+    "event_cause_id": 0,
+    "nll": 4.086460931767087,
+    "physics_nll": 4.086460931767087
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22417282496745783,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 18.395519256591797,
+    "event_cause_id": 3,
+    "nll": 5.319575587425308,
+    "physics_nll": 5.319575587425308
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 15.353873252868652,
+    "event_cause_id": 0,
+    "nll": 3.9251975879884164,
+    "physics_nll": 3.9251975879884164
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 28.23316764831543,
+    "event_cause_id": 3,
+    "nll": 5.289469584318244,
+    "physics_nll": 5.289469584318244
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2391989473459124,
+    "physics_nll": 0.7577928414783169
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.30892327909260164,
+    "physics_nll": 0.30892327909260164
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 28,
+    "event_time_delta_s": 7.905441761016846,
+    "event_cause_id": 0,
+    "nll": 3.913476792715528,
+    "physics_nll": 3.913476792715528
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22878508902857803,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 8.395520210266113,
+    "event_cause_id": 3,
+    "nll": 5.249774721235185,
+    "physics_nll": 5.249774721235185
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 7,
+    "event_time_delta_s": 5.353873252868652,
+    "event_cause_id": 0,
+    "nll": 3.684496017334268,
+    "physics_nll": 3.684496017334268
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 18.23316764831543,
+    "event_cause_id": 3,
+    "nll": 5.2278035161826795,
+    "physics_nll": 5.2278035161826795
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2422461943504502,
+    "physics_nll": 0.7577928414783169
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 25.641767501831055,
+    "event_cause_id": 0,
+    "nll": 4.420228085486514,
+    "physics_nll": 4.420228085486514
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2446852478433125,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 8.233168601989746,
+    "event_cause_id": 3,
+    "nll": 5.1703170595629775,
+    "physics_nll": 5.1703170595629775
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24600056252971658,
+    "physics_nll": 0.7577928414783169
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 15.641767501831055,
+    "event_cause_id": 0,
+    "nll": 4.3357092744097745,
+    "physics_nll": 4.3357092744097745
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.25029123766309025,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19128047999412717,
+    "physics_nll": 0.38594760185967025
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1830900173751857,
+    "physics_nll": 0.9937153994102583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22531172226091317,
+    "physics_nll": 0.7577928414783169
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 19,
+    "event_time_delta_s": 5.641767978668213,
+    "event_cause_id": 0,
+    "nll": 4.208356489884902,
+    "physics_nll": 4.208356489884902
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23164599166370306,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1806736500691951,
+    "physics_nll": 0.38594760185967025
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1776176460702497,
+    "physics_nll": 0.9937153994102583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22994772991293005,
+    "physics_nll": 0.7577928414783169
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.239592033333402,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 23.013090133666992,
+    "event_cause_id": 3,
+    "nll": 5.2116040952477825,
+    "physics_nll": 5.2116040952477825
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19049678033153,
+    "physics_nll": 0.9937153994102583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21225970654980708,
+    "physics_nll": 0.7577928414783169
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21744751292571163,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 13.013090133666992,
+    "event_cause_id": 3,
+    "nll": 5.158308989555769,
+    "physics_nll": 5.158308989555769
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18704400254077333,
+    "physics_nll": 0.9937153994102583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23080092402189087,
+    "physics_nll": 0.7577928414783169
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 19.776079177856445,
+    "event_cause_id": 0,
+    "nll": 4.118163342852068,
+    "physics_nll": 4.118163342852068
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22716187989410327,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 3.013089895248413,
+    "event_cause_id": 3,
+    "nll": 5.09632957049573,
+    "physics_nll": 5.09632957049573
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18896300202905164,
+    "physics_nll": 0.9937153994102583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2383042784091749,
+    "physics_nll": 0.7577928414783169
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 9.776080131530762,
+    "event_cause_id": 0,
+    "nll": 3.726172619994266,
+    "physics_nll": 3.726172619994266
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23395959761262172,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21544936759169267,
+    "physics_nll": 0.38594760185967025
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1823762872787577,
+    "physics_nll": 0.9937153994102583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23834947945418938,
+    "physics_nll": 0.7577928414783169
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23206908024985018,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19344582271589272,
+    "physics_nll": 0.38594760185967025
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 11.817065238952637,
+    "event_cause_id": 0,
+    "nll": 3.803011811665112,
+    "physics_nll": 3.803011811665112
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18132474756237865,
+    "physics_nll": 0.9937153994102583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2561342720474723,
+    "physics_nll": 0.7577928414783169
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2411956057543631,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2094958812212918,
+    "physics_nll": 0.38594760185967025
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 1.817064881324768,
+    "event_cause_id": 0,
+    "nll": 3.4294238680180906,
+    "physics_nll": 3.4294238680180906
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 21.363100051879883,
+    "event_cause_id": 3,
+    "nll": 5.327856698396082,
+    "physics_nll": 5.327856698396082
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.3105823203484668,
+    "physics_nll": 0.7577928414783169
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 24.848621368408203,
+    "event_cause_id": 0,
+    "nll": 4.307253897017318,
+    "physics_nll": 4.307253897017318
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23838383634087199,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19254923663578466,
+    "physics_nll": 0.38594760185967025
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 11.363099098205566,
+    "event_cause_id": 3,
+    "nll": 5.268562651639788,
+    "physics_nll": 5.268562651639788
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.40803710569361895,
+    "physics_nll": 0.7577928414783169
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 14.848621368408203,
+    "event_cause_id": 0,
+    "nll": 3.906533792307288,
+    "physics_nll": 3.906533792307288
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24421932788007245,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1986442299423122,
+    "physics_nll": 0.38594760185967025
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1895131118729083,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 1.3630993366241455,
+    "event_cause_id": 3,
+    "nll": 5.209801455799456,
+    "physics_nll": 5.209801455799456
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.523926584517879,
+    "physics_nll": 0.7577928414783169
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 4.848620891571045,
+    "event_cause_id": 0,
+    "nll": 3.53031710955506,
+    "physics_nll": 3.53031710955506
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24217936600916073,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18958153058058508,
+    "physics_nll": 0.38594760185967025
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18856808206425008,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19263072696299305,
+    "physics_nll": 0.9937153994102583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.6476920703388384,
+    "physics_nll": 0.7577928414783169
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24644489123586283,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1965790630810813,
+    "physics_nll": 0.38594760185967025
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19540864337003727,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2687205454673613,
+    "physics_nll": 0.9937153994102583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.7577928414783169,
+    "physics_nll": 0.7577928414783169
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2746786978410184,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21665350384897697,
+    "physics_nll": 0.38594760185967025
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18486231335901632,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.3698337874838883,
+    "physics_nll": 0.9937153994102583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 20.092575073242188,
+    "event_cause_id": 0,
+    "nll": 4.023773446945784,
+    "physics_nll": 4.023773446945784
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.34979646201240605,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2795218056276571,
+    "physics_nll": 0.38594760185967025
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18849131416955434,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.5165842586215554,
+    "physics_nll": 0.9937153994102583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 21.459007263183594,
+    "event_cause_id": 3,
+    "nll": 5.3873820810697,
+    "physics_nll": 5.3873820810697
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 10.092575073242188,
+    "event_cause_id": 0,
+    "nll": 3.7738780198419937,
+    "physics_nll": 3.7738780198419937
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.4722326928312093,
+    "physics_nll": 0.4722326928312093
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.38594760185967025,
+    "physics_nll": 0.38594760185967025
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1811928259606232,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.649852604405528,
+    "physics_nll": 0.9937153994102583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 11.459007263183594,
+    "event_cause_id": 3,
+    "nll": 5.329143747428895,
+    "physics_nll": 5.329143747428895
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 6,
+    "event_time_delta_s": 0.09257544577121735,
+    "event_cause_id": 0,
+    "nll": 3.484263865292407,
+    "physics_nll": 3.484263865292407
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 25.061279296875,
+    "event_cause_id": 0,
+    "nll": 4.16994547772978,
+    "physics_nll": 4.16994547772978
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 20.196069717407227,
+    "event_cause_id": 0,
+    "nll": 4.163879827925653,
+    "physics_nll": 4.163879827925653
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 0,
+    "edge_dst": 1,
+    "event_time_delta_s": 0.17996764183044434,
+    "event_cause_id": 0,
+    "nll": 3.045869561495793,
+    "physics_nll": 3.045869561495793
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.17355707810678994,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.7638963573062323,
+    "physics_nll": 0.9937153994102583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 1.459006905555725,
+    "event_cause_id": 3,
+    "nll": 5.269403349216534,
+    "physics_nll": 5.269403349216534
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 15.061279296875,
+    "event_cause_id": 0,
+    "nll": 4.018238507596352,
+    "physics_nll": 4.018238507596352
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 10,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.20143927491103156,
+    "physics_nll": 0.2084794276866787
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 10.196069717407227,
+    "event_cause_id": 0,
+    "nll": 4.037892765061322,
+    "physics_nll": 4.037892765061322
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19439410781716449,
+    "physics_nll": 0.4276733831460935
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19076011665999668,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.8870923115707761,
+    "physics_nll": 0.9937153994102583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2035059152594273,
+    "physics_nll": 0.6912903254108409
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 26,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23731050740799944,
+    "physics_nll": 0.44688196236748917
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 30,
+    "event_time_delta_s": 5.061278820037842,
+    "event_cause_id": 0,
+    "nll": 3.8098290675176325,
+    "physics_nll": 3.8098290675176325
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 10,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19576674394059432,
+    "physics_nll": 0.2084794276866787
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 16,
+    "event_time_delta_s": 0.19607006013393402,
+    "event_cause_id": 0,
+    "nll": 3.863072447442255,
+    "physics_nll": 3.863072447442255
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18892370599541985,
+    "physics_nll": 0.4276733831460935
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19013695627280208,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.9937153994102583,
+    "physics_nll": 0.9937153994102583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19053422011662804,
+    "physics_nll": 0.6912903254108409
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24808709110226124,
+    "physics_nll": 0.2522295867892755
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24609721249784874,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 25,
+    "event_time_delta_s": 4.958230018615723,
+    "event_cause_id": 0,
+    "nll": 3.4340495186985796,
+    "physics_nll": 3.4340495186985796
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 26,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2533164299199359,
+    "physics_nll": 0.44688196236748917
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 10,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21794436168334544,
+    "physics_nll": 0.2084794276866787
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19556012937341294,
+    "physics_nll": 0.4276733831460935
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18747900701379333,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2037103578812842,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 21.589336395263672,
+    "event_cause_id": 0,
+    "nll": 3.9856419639572045,
+    "physics_nll": 3.9856419639572045
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19428441469608582,
+    "physics_nll": 0.6912903254108409
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24486494053069793,
+    "physics_nll": 0.2522295867892755
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24636482512573787,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 26,
+    "event_time_delta_s": 23.866622924804688,
+    "event_cause_id": 3,
+    "nll": 5.097362764080485,
+    "physics_nll": 5.097362764080485
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 10,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21015048306216016,
+    "physics_nll": 0.2084794276866787
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2009857629963045,
+    "physics_nll": 0.4276733831460935
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19381787626451996,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.20387890102427003,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 11.589336395263672,
+    "event_cause_id": 0,
+    "nll": 3.6509692802517346,
+    "physics_nll": 3.6509692802517346
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 28.493202209472656,
+    "event_cause_id": 3,
+    "nll": 5.2681189717856505,
+    "physics_nll": 5.2681189717856505
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24865138967182926,
+    "physics_nll": 0.2522295867892755
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2530682214721339,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 26,
+    "event_time_delta_s": 13.866623878479004,
+    "event_cause_id": 3,
+    "nll": 5.0091818313623655,
+    "physics_nll": 5.0091818313623655
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 10,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23158200041007454,
+    "physics_nll": 0.2084794276866787
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 0,
+    "edge_dst": 1,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.573744706144088,
+    "physics_nll": 1.0055699136226435
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1794441894919671,
+    "physics_nll": 0.4276733831460935
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18488040031451075,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18774852591477315,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 23,
+    "event_time_delta_s": 1.5893367528915405,
+    "event_cause_id": 0,
+    "nll": 3.2791519453819116,
+    "physics_nll": 3.2791519453819116
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 18.493202209472656,
+    "event_cause_id": 3,
+    "nll": 5.209199131974225,
+    "physics_nll": 5.209199131974225
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23969311083586983,
+    "physics_nll": 0.2522295867892755
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24700499500375442,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 26,
+    "event_time_delta_s": 3.866623640060425,
+    "event_cause_id": 3,
+    "nll": 4.926140338168784,
+    "physics_nll": 4.926140338168784
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 10,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21177669630012735,
+    "physics_nll": 0.2084794276866787
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 0,
+    "edge_dst": 1,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.7562834765567584,
+    "physics_nll": 1.0055699136226435
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1858533647134713,
+    "physics_nll": 0.4276733831460935
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18878694382981526,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 24.119142532348633,
+    "event_cause_id": 3,
+    "nll": 5.251891217940461,
+    "physics_nll": 5.251891217940461
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 8.493202209472656,
+    "event_cause_id": 3,
+    "nll": 5.14415558915332,
+    "physics_nll": 5.14415558915332
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2273538103669509,
+    "physics_nll": 0.24240833095519415
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24026240693801476,
+    "physics_nll": 0.2522295867892755
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2412559773985031,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 26,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23106259007060304,
+    "physics_nll": 0.44688196236748917
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 10,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21769292612056354,
+    "physics_nll": 0.2084794276866787
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 0,
+    "edge_dst": 1,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.0055699136226435,
+    "physics_nll": 1.0055699136226435
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.17799871291325803,
+    "physics_nll": 0.4276733831460935
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1815288876131168,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 14.119141578674316,
+    "event_cause_id": 3,
+    "nll": 5.197875116646884,
+    "physics_nll": 5.197875116646884
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2412019748108387,
+    "physics_nll": 0.24240833095519415
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24072313513004945,
+    "physics_nll": 0.2522295867892755
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.134947216601601,
+    "physics_nll": 1.134947216601601
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24666784702727607,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 26,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2373219914919252,
+    "physics_nll": 0.44688196236748917
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 10,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.20603006170836013,
+    "physics_nll": 0.2084794276866787
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 0,
+    "edge_dst": 1,
+    "event_time_delta_s": 21.90557098388672,
+    "event_cause_id": 0,
+    "nll": 3.8721858251184766,
+    "physics_nll": 3.8721858251184766
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1894288886832226,
+    "physics_nll": 0.4276733831460935
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19008204748986451,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 4.119141578674316,
+    "event_cause_id": 3,
+    "nll": 5.134150025560762,
+    "physics_nll": 5.134150025560762
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 23.87056541442871,
+    "event_cause_id": 3,
+    "nll": 5.128976665021421,
+    "physics_nll": 5.128976665021421
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23737768348666294,
+    "physics_nll": 0.24240833095519415
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23092811855557366,
+    "physics_nll": 0.25210650583056754
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23649456958021842,
+    "physics_nll": 0.2522295867892755
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 20,
+    "event_time_delta_s": 20.657222747802734,
+    "event_cause_id": 0,
+    "nll": 4.14713572531316,
+    "physics_nll": 4.14713572531316
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23594357071098912,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 26,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24414933287045104,
+    "physics_nll": 0.44688196236748917
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 10,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.20107171922478378,
+    "physics_nll": 0.2084794276866787
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 0,
+    "edge_dst": 1,
+    "event_time_delta_s": 11.905570030212402,
+    "event_cause_id": 0,
+    "nll": 3.52847390867458,
+    "physics_nll": 3.52847390867458
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.20384872386951453,
+    "physics_nll": 0.4276733831460935
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1991261781304441,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 29.576169967651367,
+    "event_cause_id": 3,
+    "nll": 5.162189715906948,
+    "physics_nll": 5.162189715906948
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 13.870565414428711,
+    "event_cause_id": 3,
+    "nll": 5.056403686637978,
+    "physics_nll": 5.056403686637978
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24815013702588762,
+    "physics_nll": 0.24240833095519415
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24352862188594887,
+    "physics_nll": 0.25210650583056754
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 24.375816345214844,
+    "event_cause_id": 3,
+    "nll": 4.9772534793481755,
+    "physics_nll": 4.9772534793481755
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 20,
+    "event_time_delta_s": 10.65722370147705,
+    "event_cause_id": 0,
+    "nll": 3.7672486436699755,
+    "physics_nll": 3.7672486436699755
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24274981925412847,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 26,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.29799652509441527,
+    "physics_nll": 0.44688196236748917
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 10,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19798184698748705,
+    "physics_nll": 0.2084794276866787
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 0,
+    "edge_dst": 1,
+    "event_time_delta_s": 1.9055705070495605,
+    "event_cause_id": 0,
+    "nll": 3.1024493320311537,
+    "physics_nll": 3.1024493320311537
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.20652238191432276,
+    "physics_nll": 0.4276733831460935
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2003679266245452,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 19.576169967651367,
+    "event_cause_id": 3,
+    "nll": 5.106629307787285,
+    "physics_nll": 5.106629307787285
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 3.870565414428711,
+    "event_cause_id": 3,
+    "nll": 4.983794112448616,
+    "physics_nll": 4.983794112448616
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 7,
+    "event_time_delta_s": 11.845495223999023,
+    "event_cause_id": 0,
+    "nll": 3.7768217050976913,
+    "physics_nll": 3.7768217050976913
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2439214159161133,
+    "physics_nll": 0.24240833095519415
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24096447214498617,
+    "physics_nll": 0.25210650583056754
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 14.37581729888916,
+    "event_cause_id": 3,
+    "nll": 4.901857134767136,
+    "physics_nll": 4.901857134767136
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 20,
+    "event_time_delta_s": 0.657223641872406,
+    "event_cause_id": 0,
+    "nll": 3.4165001659334013,
+    "physics_nll": 3.4165001659334013
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23584367122233094,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 26,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.3635591756799786,
+    "physics_nll": 0.44688196236748917
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 10,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2084794276866787,
+    "physics_nll": 0.2084794276866787
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.20549174044967672,
+    "physics_nll": 0.4276733831460935
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19911672916855278,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 9.57616901397705,
+    "event_cause_id": 3,
+    "nll": 5.044013614231037,
+    "physics_nll": 5.044013614231037
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2088028944261321,
+    "physics_nll": 0.6912903254108409
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 7,
+    "event_time_delta_s": 1.8454949855804443,
+    "event_cause_id": 0,
+    "nll": 3.3821513157017984,
+    "physics_nll": 3.3821513157017984
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23889363958819904,
+    "physics_nll": 0.24240833095519415
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2405849032932481,
+    "physics_nll": 0.25210650583056754
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 4.37581729888916,
+    "event_cause_id": 3,
+    "nll": 4.826232399109146,
+    "physics_nll": 4.826232399109146
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24521646892894167,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 26,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.44688196236748917,
+    "physics_nll": 0.44688196236748917
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 10,
+    "event_time_delta_s": 23.417312622070312,
+    "event_cause_id": 3,
+    "nll": 4.814122936299663,
+    "physics_nll": 4.814122936299663
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2029488994196763,
+    "physics_nll": 0.4276733831460935
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.20486956853357935,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2012818679694759,
+    "physics_nll": 0.6912903254108409
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 12,
+    "event_time_delta_s": 26.88680076599121,
+    "event_cause_id": 3,
+    "nll": 5.1604145430886454,
+    "physics_nll": 5.1604145430886454
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.2629083126096141,
+    "physics_nll": 1.2629083126096141
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24772214582328467,
+    "physics_nll": 0.25210650583056754
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24361274241773967,
+    "physics_nll": 0.2522295867892755
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.25476900533402336,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 26,
+    "event_time_delta_s": 24.065996170043945,
+    "event_cause_id": 0,
+    "nll": 4.327299036345436,
+    "physics_nll": 4.327299036345436
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 10,
+    "event_time_delta_s": 13.417313575744629,
+    "event_cause_id": 3,
+    "nll": 4.738953860895478,
+    "physics_nll": 4.738953860895478
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 13,
+    "event_time_delta_s": 7.73583984375,
+    "event_cause_id": 0,
+    "nll": 3.594430938992353,
+    "physics_nll": 3.594430938992353
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18924198270259673,
+    "physics_nll": 0.4276733831460935
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19293343845509645,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.20305457910077057,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.191962135768526,
+    "physics_nll": 0.6912903254108409
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 12,
+    "event_time_delta_s": 16.88680076599121,
+    "event_cause_id": 3,
+    "nll": 5.077261206326971,
+    "physics_nll": 5.077261206326971
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 13,
+    "event_time_delta_s": 25.22329330444336,
+    "event_cause_id": 0,
+    "nll": 4.269309056845476,
+    "physics_nll": 4.269309056845476
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2381538806879785,
+    "physics_nll": 0.25210650583056754
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24558874831805344,
+    "physics_nll": 0.2522295867892755
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 22.340486526489258,
+    "event_cause_id": 3,
+    "nll": 4.915823144347184,
+    "physics_nll": 4.915823144347184
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 25,
+    "event_time_delta_s": 18.14088249206543,
+    "event_cause_id": 3,
+    "nll": 4.7390387446215625,
+    "physics_nll": 4.7390387446215625
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 26,
+    "event_time_delta_s": 14.065996170043945,
+    "event_cause_id": 0,
+    "nll": 4.190262251776258,
+    "physics_nll": 4.190262251776258
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 10,
+    "event_time_delta_s": 3.4173130989074707,
+    "event_cause_id": 3,
+    "nll": 4.665694673781182,
+    "physics_nll": 4.665694673781182
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 29,
+    "event_time_delta_s": 22.75943374633789,
+    "event_cause_id": 0,
+    "nll": 4.24736739750886,
+    "physics_nll": 4.24736739750886
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1872089865549046,
+    "physics_nll": 0.4276733831460935
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18606631150670794,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.20048252108288872,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.20606676018075384,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1887792540876358,
+    "physics_nll": 0.6912903254108409
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 12,
+    "event_time_delta_s": 6.8867998123168945,
+    "event_cause_id": 3,
+    "nll": 5.003008212951847,
+    "physics_nll": 5.003008212951847
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 13,
+    "event_time_delta_s": 15.223294258117676,
+    "event_cause_id": 0,
+    "nll": 3.847897756081568,
+    "physics_nll": 3.847897756081568
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2378087334325843,
+    "physics_nll": 0.25210650583056754
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2568508886201294,
+    "physics_nll": 0.2522295867892755
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 12.340487480163574,
+    "event_cause_id": 3,
+    "nll": 4.837965327589003,
+    "physics_nll": 4.837965327589003
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 25,
+    "event_time_delta_s": 8.14088249206543,
+    "event_cause_id": 3,
+    "nll": 4.659474295519682,
+    "physics_nll": 4.659474295519682
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 26,
+    "event_time_delta_s": 4.065996170043945,
+    "event_cause_id": 0,
+    "nll": 4.0140865996654345,
+    "physics_nll": 4.0140865996654345
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 29,
+    "event_time_delta_s": 12.759434700012207,
+    "event_cause_id": 0,
+    "nll": 3.841315507422327,
+    "physics_nll": 3.841315507422327
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19457504323531571,
+    "physics_nll": 0.4276733831460935
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.19383248768408362,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.20411394907735247,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2130874428102435,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2053287140253517,
+    "physics_nll": 0.6912903254108409
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 13,
+    "event_time_delta_s": 5.223293781280518,
+    "event_cause_id": 0,
+    "nll": 3.43490263708225,
+    "physics_nll": 3.43490263708225
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2269021687499245,
+    "physics_nll": 0.25210650583056754
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23656868481512566,
+    "physics_nll": 0.2522295867892755
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 2.340487003326416,
+    "event_cause_id": 3,
+    "nll": 4.755292405739487,
+    "physics_nll": 4.755292405739487
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 29,
+    "event_time_delta_s": 2.759434461593628,
+    "event_cause_id": 0,
+    "nll": 3.477537385489131,
+    "physics_nll": 3.477537385489131
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.18849502091471948,
+    "physics_nll": 0.4276733831460935
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2139614921144206,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21903642731229298,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1975201655011778,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23999174680856927,
+    "physics_nll": 0.6912903254108409
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23379726226714193,
+    "physics_nll": 0.25210650583056754
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 24.8471736907959,
+    "event_cause_id": 3,
+    "nll": 5.094491163886717,
+    "physics_nll": 5.094491163886717
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 1.2383075952529907,
+    "event_cause_id": 3,
+    "nll": 4.76335077376025,
+    "physics_nll": 4.76335077376025
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 25,
+    "event_time_delta_s": 7.124110221862793,
+    "event_cause_id": 3,
+    "nll": 4.8702651263695955,
+    "physics_nll": 4.8702651263695955
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.20505113048528884,
+    "physics_nll": 0.4276733831460935
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.29105105017044575,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.3065923009937189,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 28.719825744628906,
+    "event_cause_id": 3,
+    "nll": 5.284058065367683,
+    "physics_nll": 5.284058065367683
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.3322209966262779,
+    "physics_nll": 0.6912903254108409
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2458852654839319,
+    "physics_nll": 0.24240833095519415
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23835736387307938,
+    "physics_nll": 0.25210650583056754
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 14.847172737121582,
+    "event_cause_id": 3,
+    "nll": 5.006826200011297,
+    "physics_nll": 5.006826200011297
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23424450451342987,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.1976588170509752,
+    "physics_nll": 0.4276733831460935
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.37562726302716865,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.42393645778416467,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 18.719825744628906,
+    "event_cause_id": 3,
+    "nll": 5.222762875608797,
+    "physics_nll": 5.222762875608797
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.4462541870422536,
+    "physics_nll": 0.6912903254108409
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2530302635063999,
+    "physics_nll": 0.24240833095519415
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24542832733128772,
+    "physics_nll": 0.25210650583056754
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 4.847172737121582,
+    "event_cause_id": 3,
+    "nll": 4.932923802337898,
+    "physics_nll": 4.932923802337898
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23726635214258332,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2460951994372745,
+    "physics_nll": 0.24404058615607865
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24646434454018828,
+    "physics_nll": 0.4276733831460935
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.4900570408005173,
+    "physics_nll": 0.4900570408005173
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.5721990746489257,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 8.71982479095459,
+    "event_cause_id": 3,
+    "nll": 5.1581709161620894,
+    "physics_nll": 5.1581709161620894
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 22,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.0323808631433629,
+    "physics_nll": 0.535884345659943
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.5757774199272492,
+    "physics_nll": 0.6912903254108409
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 7,
+    "event_time_delta_s": 6.411588668823242,
+    "event_cause_id": 3,
+    "nll": 4.850266835933997,
+    "physics_nll": 4.850266835933997
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2409008575518778,
+    "physics_nll": 0.24240833095519415
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24655592087484454,
+    "physics_nll": 0.25210650583056754
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 26.439098358154297,
+    "event_cause_id": 3,
+    "nll": 4.945050922448734,
+    "physics_nll": 4.945050922448734
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.26537230118566235,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23879515548205982,
+    "physics_nll": 0.24404058615607865
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.3230973386871548,
+    "physics_nll": 0.4276733831460935
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 23.455135345458984,
+    "event_cause_id": 0,
+    "nll": 4.241002800181299,
+    "physics_nll": 4.241002800181299
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.7066814654955041,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.20900052826741874,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 22,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.9217485570785463,
+    "physics_nll": 0.535884345659943
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.6912903254108409,
+    "physics_nll": 0.6912903254108409
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2506198014057,
+    "physics_nll": 0.48872343146693503
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23946198166776525,
+    "physics_nll": 0.24240833095519415
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 14,
+    "event_time_delta_s": 23.325254440307617,
+    "event_cause_id": 3,
+    "nll": 4.9970683682539265,
+    "physics_nll": 4.9970683682539265
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 16.439098358154297,
+    "event_cause_id": 3,
+    "nll": 4.85611126698459,
+    "physics_nll": 4.85611126698459
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.34614709226648216,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 25,
+    "event_time_delta_s": 24.40160369873047,
+    "event_cause_id": 3,
+    "nll": 5.016993536549284,
+    "physics_nll": 5.016993536549284
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.4276733831460935,
+    "physics_nll": 0.4276733831460935
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 13.455134391784668,
+    "event_cause_id": 0,
+    "nll": 4.075780225563964,
+    "physics_nll": 4.075780225563964
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.8294330067257029,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.20586913168818521,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 22,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.7999531831969968,
+    "physics_nll": 0.535884345659943
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 26.92085075378418,
+    "event_cause_id": 0,
+    "nll": 4.204129793844863,
+    "physics_nll": 4.204129793844863
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24742994752044722,
+    "physics_nll": 0.48872343146693503
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24366123978222962,
+    "physics_nll": 0.24240833095519415
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 14,
+    "event_time_delta_s": 13.325254440307617,
+    "event_cause_id": 3,
+    "nll": 4.9136749747049935,
+    "physics_nll": 4.9136749747049935
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 6.439098358154297,
+    "event_cause_id": 3,
+    "nll": 4.782056651181175,
+    "physics_nll": 4.782056651181175
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.4453173800125739,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 25,
+    "event_time_delta_s": 14.401603698730469,
+    "event_cause_id": 3,
+    "nll": 4.933241110229114,
+    "physics_nll": 4.933241110229114
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 29.899173736572266,
+    "event_cause_id": 0,
+    "nll": 4.240496234321728,
+    "physics_nll": 4.240496234321728
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 14,
+    "event_time_delta_s": 3.455134391784668,
+    "event_cause_id": 0,
+    "nll": 3.8770528685706007,
+    "physics_nll": 3.8770528685706007
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.9658692094037541,
+    "physics_nll": 0.9658692094037541
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22426071870639236,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 22,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.68947971577818,
+    "physics_nll": 0.535884345659943
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 16.92085075378418,
+    "event_cause_id": 0,
+    "nll": 3.9831180470566285,
+    "physics_nll": 3.9831180470566285
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24267527838780087,
+    "physics_nll": 0.48872343146693503
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24010867706655398,
+    "physics_nll": 0.24240833095519415
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 14,
+    "event_time_delta_s": 3.325254201889038,
+    "event_cause_id": 3,
+    "nll": 4.826123092559359,
+    "physics_nll": 4.826123092559359
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.25405453521579846,
+    "physics_nll": 0.2522295867892755
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.479347971056533,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 25,
+    "event_time_delta_s": 4.401603698730469,
+    "event_cause_id": 3,
+    "nll": 4.858051975678029,
+    "physics_nll": 4.858051975678029
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 19.899173736572266,
+    "event_cause_id": 0,
+    "nll": 4.095948455691549,
+    "physics_nll": 4.095948455691549
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 24.079286575317383,
+    "event_cause_id": 0,
+    "nll": 4.083072892206756,
+    "physics_nll": 4.083072892206756
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2168203049849781,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 22,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.535884345659943,
+    "physics_nll": 0.535884345659943
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 29,
+    "event_time_delta_s": 6.920851707458496,
+    "event_cause_id": 0,
+    "nll": 3.712329358887458,
+    "physics_nll": 3.712329358887458
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2406954563253358,
+    "physics_nll": 0.48872343146693503
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2390114871581095,
+    "physics_nll": 0.24240833095519415
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23823899866107082,
+    "physics_nll": 0.25210650583056754
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23923781379380693,
+    "physics_nll": 0.2522295867892755
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.4273639529614291,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2452649154392058,
+    "physics_nll": 0.24404058615607865
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21452920081445048,
+    "physics_nll": 0.22239705911319374
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 29,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21191799056068764,
+    "physics_nll": 0.2332793269691537
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 13,
+    "event_time_delta_s": 9.899173736572266,
+    "event_cause_id": 0,
+    "nll": 3.9034358125878055,
+    "physics_nll": 3.9034358125878055
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 14.079286575317383,
+    "event_cause_id": 0,
+    "nll": 3.7589608800097136,
+    "physics_nll": 3.7589608800097136
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.20835748092863993,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 22,
+    "event_time_delta_s": 26.927967071533203,
+    "event_cause_id": 3,
+    "nll": 5.477571649540641,
+    "physics_nll": 5.477571649540641
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24724515333492547,
+    "physics_nll": 0.48872343146693503
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24062649808381117,
+    "physics_nll": 0.24240833095519415
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23928239810826685,
+    "physics_nll": 0.25210650583056754
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24442615577940335,
+    "physics_nll": 0.2522295867892755
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.3270244063341031,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.25562092514574797,
+    "physics_nll": 0.24404058615607865
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 27,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.2353222907229193,
+    "physics_nll": 1.2353222907229193
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2091992322917562,
+    "physics_nll": 0.22239705911319374
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 29,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21054258796568753,
+    "physics_nll": 0.2332793269691537
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 20,
+    "event_time_delta_s": 4.079286575317383,
+    "event_cause_id": 0,
+    "nll": 3.400321002252642,
+    "physics_nll": 3.400321002252642
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2235416498023356,
+    "physics_nll": 0.2235416498023356
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 22,
+    "event_time_delta_s": 16.927967071533203,
+    "event_cause_id": 3,
+    "nll": 5.294844379782428,
+    "physics_nll": 5.294844379782428
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24284458293236327,
+    "physics_nll": 0.48872343146693503
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24380564468010277,
+    "physics_nll": 0.24240833095519415
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23842651231902423,
+    "physics_nll": 0.25210650583056754
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2386020770820217,
+    "physics_nll": 0.2522295867892755
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2585468797875571,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24977144526352557,
+    "physics_nll": 0.24404058615607865
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 27,
+    "event_time_delta_s": 28.40947723388672,
+    "event_cause_id": 0,
+    "nll": 4.4049505674755185,
+    "physics_nll": 4.4049505674755185
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21135488204632152,
+    "physics_nll": 0.22239705911319374
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 29,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.21924685570674157,
+    "physics_nll": 0.2332793269691537
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 28.140716552734375,
+    "event_cause_id": 0,
+    "nll": 4.597476428343126,
+    "physics_nll": 4.597476428343126
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 22,
+    "event_time_delta_s": 6.927966594696045,
+    "event_cause_id": 3,
+    "nll": 5.16213466727975,
+    "physics_nll": 5.16213466727975
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2527707183378061,
+    "physics_nll": 0.48872343146693503
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24437630993437096,
+    "physics_nll": 0.24240833095519415
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2422965300749382,
+    "physics_nll": 0.25210650583056754
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23862523681862358,
+    "physics_nll": 0.2522295867892755
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23705762989109908,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24664842033174092,
+    "physics_nll": 0.24404058615607865
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 27,
+    "event_time_delta_s": 18.40947723388672,
+    "event_cause_id": 0,
+    "nll": 3.9893207379130917,
+    "physics_nll": 3.9893207379130917
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2132287276678575,
+    "physics_nll": 0.22239705911319374
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 29,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22958835881109374,
+    "physics_nll": 0.2332793269691537
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 10,
+    "event_time_delta_s": 1.5296350717544556,
+    "event_cause_id": 0,
+    "nll": 3.2895981040882787,
+    "physics_nll": 3.2895981040882787
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 18.140716552734375,
+    "event_cause_id": 0,
+    "nll": 4.525173752827139,
+    "physics_nll": 4.525173752827139
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.29025232854008975,
+    "physics_nll": 0.48872343146693503
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 12,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24240833095519415,
+    "physics_nll": 0.24240833095519415
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24448509815988073,
+    "physics_nll": 0.25210650583056754
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23769210081172515,
+    "physics_nll": 0.2522295867892755
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23893494408903765,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23800871086544995,
+    "physics_nll": 0.24404058615607865
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 27,
+    "event_time_delta_s": 8.409478187561035,
+    "event_cause_id": 0,
+    "nll": 3.5976473961268973,
+    "physics_nll": 3.5976473961268973
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 13,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.22239705911319374,
+    "physics_nll": 0.22239705911319374
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 14,
+    "event_time_delta_s": 7.651666164398193,
+    "event_cause_id": 0,
+    "nll": 3.540759256070041,
+    "physics_nll": 3.540759256070041
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 1.1672602653150552,
+    "physics_nll": 1.1672602653150552
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 29,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2332793269691537,
+    "physics_nll": 0.2332793269691537
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 1,
+    "edge_dst": 21,
+    "event_time_delta_s": 8.140716552734375,
+    "event_cause_id": 0,
+    "nll": 4.439534341414827,
+    "physics_nll": 4.439534341414827
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.37223993197485455,
+    "physics_nll": 0.48872343146693503
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 12,
+    "event_time_delta_s": 28.517366409301758,
+    "event_cause_id": 3,
+    "nll": 4.992913895425999,
+    "physics_nll": 4.992913895425999
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.25017629567900745,
+    "physics_nll": 0.25210650583056754
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24369648881886533,
+    "physics_nll": 0.2522295867892755
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2479929522540963,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.23837316380386647,
+    "physics_nll": 0.24404058615607865
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 13,
+    "event_time_delta_s": 28.764354705810547,
+    "event_cause_id": 3,
+    "nll": 5.140166372909527,
+    "physics_nll": 5.140166372909527
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 21,
+    "event_time_delta_s": 23.516868591308594,
+    "event_cause_id": 0,
+    "nll": 4.194059453322676,
+    "physics_nll": 4.194059453322676
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 29,
+    "event_time_delta_s": 29.684139251708984,
+    "event_cause_id": 3,
+    "nll": 5.068239595861796,
+    "physics_nll": 5.068239595861796
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 7,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.48872343146693503,
+    "physics_nll": 0.48872343146693503
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 12,
+    "event_time_delta_s": 18.517366409301758,
+    "event_cause_id": 3,
+    "nll": 4.907241520477385,
+    "physics_nll": 4.907241520477385
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 14,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.25210650583056754,
+    "physics_nll": 0.25210650583056754
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 18,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.2522295867892755,
+    "physics_nll": 0.2522295867892755
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 21,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.26095665124938583,
+    "physics_nll": 0.26095665124938583
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 2,
+    "edge_dst": 25,
+    "event_time_delta_s": 30.0,
+    "event_cause_id": -1,
+    "nll": 0.24404058615607865,
+    "physics_nll": 0.24404058615607865
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 13,
+    "event_time_delta_s": 18.764354705810547,
+    "event_cause_id": 3,
+    "nll": 5.066622769233254,
+    "physics_nll": 5.066622769233254
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 21,
+    "event_time_delta_s": 13.516867637634277,
+    "event_cause_id": 0,
+    "nll": 3.803259414271831,
+    "physics_nll": 3.803259414271831
+  },
+  {
+    "mission_id": "train_mission_0003",
+    "edge_src": 3,
+    "edge_dst": 29,
+    "event_time_delta_s": 19.684139251708984,
+    "event_cause_id": 3,
+    "nll": 4.993943559717925,
+    "physics_nll": 4.993943559717925
+  }
+]

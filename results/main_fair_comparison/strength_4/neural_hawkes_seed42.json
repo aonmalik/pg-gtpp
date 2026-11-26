@@ -1,0 +1,17 @@
+{
+  "model": "neural_hawkes",
+  "seed": 42,
+  "parameters": 24871,
+  "test_auc": 0.6412986622650086,
+  "test_auprc": 0.4917639945550246,
+  "test_brier": 0.21899865567684174,
+  "test_ece": 0.058273075600006774,
+  "test_cindex": 0.6173991331057707,
+  "reference_test_nll": 1.867494821548462,
+  "integrated_test_nll": 1.7932423175992551,
+  "val_auc": 0.5877790639956003,
+  "physics_nll": 1.7462735789378043,
+  "relative_nll_improvement": -0.026896552308842806,
+  "selection_objective": "fixed_training_budget",
+  "training_steps": 3000
+}

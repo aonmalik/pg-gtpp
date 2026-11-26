@@ -1,0 +1,59 @@
+{
+  "protocol": {
+    "n_missions": 5,
+    "corpus_seed": 2026,
+    "seeds": "42",
+    "strengths": "0",
+    "mission_duration_s": 900,
+    "window_length": 10,
+    "lookahead_s": 30,
+    "eval_stride": 10,
+    "quadrature_points": 9,
+    "n_steps": 5,
+    "batch_size": 16,
+    "hidden_dim": 64,
+    "learning_rate": 0.003,
+    "mark_loss_weight": 0.25,
+    "physics_reg_weight": 0.1,
+    "val_every": 250,
+    "val_stride": 10,
+    "output_dir": "results/physics_sanity_v5c",
+    "only": "physics_only",
+    "skip_existing": false,
+    "gbt_max_iter": 250,
+    "gbt_learning_rate": 0.05,
+    "gbt_max_leaf_nodes": 31,
+    "gbt_min_samples_leaf": 30,
+    "gbt_l2": 1.0,
+    "gbt_scales": "0,.125,.25,.375,.5,.75,1,1.25,1.5,2",
+    "allow_nondeterministic": false
+  },
+  "models": [
+    "physics_only"
+  ],
+  "conditions": {
+    "strength_0": {
+      "strength": 0.0,
+      "models": {
+        "physics_only_seed42": {
+          "model": "physics_only",
+          "seed": 42,
+          "parameters": 141504,
+          "test_auc": 0.7173016228037477,
+          "test_auprc": 0.5486258165897584,
+          "test_brier": 0.17644092440605164,
+          "test_ece": 0.03231539128507887,
+          "test_cindex": 0.6910019497566642,
+          "reference_test_nll": 1.8309062719345093,
+          "integrated_test_nll": 65.28162793665769,
+          "val_auc": 0.7440954043048283,
+          "physics_nll": 1.552503402593123,
+          "relative_nll_improvement": -41.04926561038047,
+          "selection_objective": "fixed_training_budget",
+          "training_steps": 5
+        }
+      },
+      "physics_only_oracle_integrated_nll": 1.552503402593123
+    }
+  }
+}

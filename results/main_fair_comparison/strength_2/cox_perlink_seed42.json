@@ -1,0 +1,17 @@
+{
+  "model": "cox_perlink",
+  "seed": 42,
+  "parameters": 187,
+  "test_auc": 0.26806034399896095,
+  "test_auprc": 0.21515189984500113,
+  "test_brier": 0.5059874057769775,
+  "test_ece": 0.5365267395973206,
+  "test_cindex": 0.30113839257171005,
+  "reference_test_nll": 2.7696588039398193,
+  "integrated_test_nll": 2.4452775356429033,
+  "val_auc": 0.3027425424899653,
+  "physics_nll": 1.5981986894189555,
+  "relative_nll_improvement": -0.5300209866471068,
+  "selection_objective": "fixed_training_budget",
+  "training_steps": 3000
+}

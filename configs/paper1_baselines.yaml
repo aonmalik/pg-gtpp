@@ -1,0 +1,15 @@
+# Paper 1 comparison modes
+# Keep identical simulator/data seeds across all runs.
+
+physics_only:
+  learned_correction: false
+  use_fusion_gate: false
+
+neural_only:
+  use_physics_intensity: false
+  use_fusion_gate: false
+
+pg_gtpp:
+  learned_correction: true
+  use_physics_intensity: true
+  use_fusion_gate: true

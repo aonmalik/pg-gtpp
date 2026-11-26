@@ -1,0 +1,17 @@
+{
+  "model": "dysat_style",
+  "seed": 44,
+  "parameters": 38631,
+  "test_auc": 0.6117892101911696,
+  "test_auprc": 0.5254591417950172,
+  "test_brier": 0.23128244280815125,
+  "test_ece": 0.06510356171236222,
+  "test_cindex": 0.594726733757316,
+  "reference_test_nll": 2.0533628463745117,
+  "integrated_test_nll": 1.9589453839635844,
+  "val_auc": 0.5971567391636261,
+  "physics_nll": 1.9495576351730683,
+  "relative_nll_improvement": -0.004815322522990038,
+  "selection_objective": "fixed_training_budget",
+  "training_steps": 3000
+}

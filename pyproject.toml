@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pg-gtpp"
+version = "0.1.0"
+description = "PG-GTPP: Physics-Guided Competing-Risks Graph Temporal Point Processes for underwater USV-AUV-IoUT communication forecasting."
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=1.26",
+    "pandas>=2.2",
+    "pyarrow>=14.0",
+    "PyYAML>=6.0",
+    "scipy>=1.11",
+    "torch>=2.2",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+torch = ["torch>=2.2"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

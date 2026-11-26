@@ -1,0 +1,94 @@
+{
+  "protocol": {
+    "root": "results/bootstrap_full",
+    "strengths": "0,5",
+    "seeds": "42,43,44",
+    "n_boot": 10000,
+    "seed": 2026,
+    "resampling_unit": "mission",
+    "within_mission_aggregation": "mean_over_overlapping_test_records",
+    "cross_seed_aggregation": "mean_delta_per_mission"
+  },
+  "conditions": {
+    "strength_0": {
+      "pooled_pg_minus_physics": {
+        "n_missions": 8,
+        "n_seeds": 3,
+        "delta_nll": 0.023153440279322174,
+        "ci95": [
+          0.016249665580714133,
+          0.03145542711606754
+        ]
+      },
+      "pooled_pg_minus_gbt": {
+        "n_missions": 8,
+        "n_seeds": 3,
+        "delta_nll": 0.023153440279322174,
+        "ci95": [
+          0.01621050257927664,
+          0.031611776251969884
+        ]
+      },
+      "per_seed": {
+        "seed_42": {
+          "n_missions_pg_physics": 8,
+          "pg_minus_physics_mean": 0.02398464359963659,
+          "n_missions_pg_gbt": 8,
+          "pg_minus_gbt_mean": 0.02398464359963659
+        },
+        "seed_43": {
+          "n_missions_pg_physics": 8,
+          "pg_minus_physics_mean": 0.02315654455280372,
+          "n_missions_pg_gbt": 8,
+          "pg_minus_gbt_mean": 0.02315654455280372
+        },
+        "seed_44": {
+          "n_missions_pg_physics": 8,
+          "pg_minus_physics_mean": 0.02231913268552621,
+          "n_missions_pg_gbt": 8,
+          "pg_minus_gbt_mean": 0.02231913268552621
+        }
+      }
+    },
+    "strength_5": {
+      "pooled_pg_minus_physics": {
+        "n_missions": 8,
+        "n_seeds": 3,
+        "delta_nll": -0.013164935686919621,
+        "ci95": [
+          -0.027209184106783513,
+          0.0032174242010088237
+        ]
+      },
+      "pooled_pg_minus_gbt": {
+        "n_missions": 8,
+        "n_seeds": 3,
+        "delta_nll": 0.015127336131228205,
+        "ci95": [
+          -0.0024868572663137595,
+          0.03348304760865492
+        ]
+      },
+      "per_seed": {
+        "seed_42": {
+          "n_missions_pg_physics": 8,
+          "pg_minus_physics_mean": -0.016183644777017725,
+          "n_missions_pg_gbt": 8,
+          "pg_minus_gbt_mean": 0.01083185620319635
+        },
+        "seed_43": {
+          "n_missions_pg_physics": 8,
+          "pg_minus_physics_mean": -0.016457442885700835,
+          "n_missions_pg_gbt": 8,
+          "pg_minus_gbt_mean": 0.0077248006392511
+        },
+        "seed_44": {
+          "n_missions_pg_physics": 8,
+          "pg_minus_physics_mean": -0.006853719398040303,
+          "n_missions_pg_gbt": 8,
+          "pg_minus_gbt_mean": 0.026825351551237164
+        }
+      }
+    }
+  }
+}

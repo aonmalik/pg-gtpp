@@ -1,0 +1,17 @@
+{
+  "model": "rnn_perlink",
+  "seed": 43,
+  "parameters": 4039,
+  "test_auc": 0.50311417345965,
+  "test_auprc": 0.33809063629471714,
+  "test_brier": 0.22401294112205505,
+  "test_ece": 0.047161871506836865,
+  "test_cindex": 0.502678856433271,
+  "reference_test_nll": 1.8269420862197876,
+  "integrated_test_nll": 1.7643155950381455,
+  "val_auc": 0.517238257530905,
+  "physics_nll": 1.6849086749568314,
+  "relative_nll_improvement": -0.04712832289462132,
+  "selection_objective": "fixed_training_budget",
+  "training_steps": 3000
+}

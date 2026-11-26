@@ -1,0 +1,17 @@
+{
+  "model": "physics_soft_reg",
+  "seed": 43,
+  "parameters": 36135,
+  "test_auc": 0.5239242184913365,
+  "test_auprc": 0.2828269736767022,
+  "test_brier": 0.1941799819469452,
+  "test_ece": 0.05605205329486016,
+  "test_cindex": 0.5211710441202466,
+  "reference_test_nll": 1.4868441820144653,
+  "integrated_test_nll": 1.4548276373383433,
+  "val_auc": 0.5455382453491961,
+  "physics_nll": 1.3577012833013067,
+  "relative_nll_improvement": -0.07153735157476605,
+  "selection_objective": "fixed_training_budget",
+  "training_steps": 3000
+}

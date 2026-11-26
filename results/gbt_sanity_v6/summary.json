@@ -1,0 +1,51 @@
+{
+  "protocol": {
+    "n_missions": 5,
+    "corpus_seed": 2026,
+    "seeds": "42",
+    "strengths": "0",
+    "mission_duration_s": 900,
+    "window_length": 10,
+    "lookahead_s": 30,
+    "eval_stride": 10,
+    "quadrature_points": 9,
+    "n_steps": 100,
+    "batch_size": 16,
+    "hidden_dim": 64,
+    "learning_rate": 0.003,
+    "mark_loss_weight": 0.25,
+    "physics_reg_weight": 0.1,
+    "val_every": 250,
+    "val_stride": 10,
+    "output_dir": "results/gbt_sanity_v6",
+    "only": "gbt_residual",
+    "skip_existing": false,
+    "gbt_max_iter": 250,
+    "gbt_learning_rate": 0.05,
+    "gbt_max_leaf_nodes": 31,
+    "gbt_min_samples_leaf": 30,
+    "gbt_l2": 1.0,
+    "gbt_scales": "0,.125,.25,.375,.5,.75,1,1.25,1.5,2",
+    "allow_nondeterministic": false
+  },
+  "models": [
+    "gbt_residual"
+  ],
+  "conditions": {
+    "strength_0": {
+      "strength": 0.0,
+      "models": {
+        "gbt_residual_seed42": {
+          "model": "gbt_residual",
+          "seed": 42,
+          "integrated_test_nll": 1.552503402593123,
+          "selected_residual_scale": 0.0,
+          "selection_objective": "integrated_time_varying_nll",
+          "physics_nll": 1.552503402593123,
+          "relative_nll_improvement": 0.0
+        }
+      },
+      "physics_only_oracle_integrated_nll": 1.552503402593123
+    }
+  }
+}

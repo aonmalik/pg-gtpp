@@ -1,0 +1,17 @@
+{
+  "model": "tgat_style",
+  "seed": 43,
+  "parameters": 54327,
+  "test_auc": 0.5744309754331042,
+  "test_auprc": 0.4188995764089874,
+  "test_brier": 0.21895471215248108,
+  "test_ece": 0.04445110856379861,
+  "test_cindex": 0.5672566415186655,
+  "reference_test_nll": 1.821463942527771,
+  "integrated_test_nll": 1.7521300943827198,
+  "val_auc": 0.5711977542840437,
+  "physics_nll": 1.6849086749568314,
+  "relative_nll_improvement": -0.0398961797900475,
+  "selection_objective": "fixed_training_budget",
+  "training_steps": 3000
+}

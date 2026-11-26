@@ -1,0 +1,17 @@
+{
+  "model": "neural_only",
+  "seed": 44,
+  "parameters": 158276,
+  "test_auc": 0.5808823845595139,
+  "test_auprc": 0.49685182204896217,
+  "test_brier": 0.23299407958984375,
+  "test_ece": 0.06430204942982924,
+  "test_cindex": 0.568609485790703,
+  "reference_test_nll": 2.4016854763031006,
+  "integrated_test_nll": 1.9632681914069332,
+  "val_auc": 0.56141381933547,
+  "physics_nll": 1.9495576351730683,
+  "relative_nll_improvement": -0.007032649861950723,
+  "selection_objective": "fixed_training_budget",
+  "training_steps": 3000
+}

@@ -1,0 +1,9 @@
+{
+  "model": "physics_only",
+  "seed": 44,
+  "integrated_test_nll": 1.3577012833013067,
+  "physics_nll": 1.3577012833013067,
+  "relative_nll_improvement": 0.0,
+  "selection_objective": "fixed_physics_oracle",
+  "training_steps": 0
+}

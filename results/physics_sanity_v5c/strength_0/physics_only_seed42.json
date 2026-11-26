@@ -1,0 +1,17 @@
+{
+  "model": "physics_only",
+  "seed": 42,
+  "parameters": 141504,
+  "test_auc": 0.7173016228037477,
+  "test_auprc": 0.5486258165897584,
+  "test_brier": 0.17644092440605164,
+  "test_ece": 0.03231539128507887,
+  "test_cindex": 0.6910019497566642,
+  "reference_test_nll": 1.8309062719345093,
+  "integrated_test_nll": 65.28162793665769,
+  "val_auc": 0.7440954043048283,
+  "physics_nll": 1.552503402593123,
+  "relative_nll_improvement": -41.04926561038047,
+  "selection_objective": "fixed_training_budget",
+  "training_steps": 5
+}

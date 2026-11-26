@@ -1,0 +1,260 @@
+{
+  "protocol": {
+    "n_missions": 50,
+    "corpus_seed": 2026,
+    "seeds": "42,43,44",
+    "strengths": "0,5",
+    "mission_duration_s": 900,
+    "window_length": 10,
+    "lookahead_s": 30.0,
+    "eval_stride": 10,
+    "quadrature_points": 65,
+    "n_steps": 3000,
+    "batch_size": 16,
+    "hidden_dim": 64,
+    "learning_rate": 0.003,
+    "mark_loss_weight": 0.25,
+    "physics_reg_weight": 0.1,
+    "val_every": 250,
+    "val_stride": 10,
+    "output_dir": "results/bootstrap_full",
+    "only": "physics_only,gbt_residual,pg_gtpp",
+    "skip_existing": false,
+    "gbt_max_iter": 250,
+    "gbt_learning_rate": 0.05,
+    "gbt_max_leaf_nodes": 31,
+    "gbt_min_samples_leaf": 30,
+    "gbt_l2": 1.0,
+    "gbt_scales": "0,.125,.25,.375,.5,.75,1,1.25,1.5,2",
+    "allow_nondeterministic": false
+  },
+  "models": [
+    "physics_only",
+    "pg_gtpp",
+    "gbt_residual"
+  ],
+  "conditions": {
+    "strength_0": {
+      "strength": 0.0,
+      "models": {
+        "physics_only_seed42": {
+          "model": "physics_only",
+          "seed": 42,
+          "integrated_test_nll": 1.3576996932667291,
+          "physics_nll": 1.3576996932667291,
+          "relative_nll_improvement": 0.0,
+          "selection_objective": "fixed_physics_oracle",
+          "training_steps": 0
+        },
+        "pg_gtpp_seed42": {
+          "model": "pg_gtpp",
+          "seed": 42,
+          "parameters": 175048,
+          "test_auc": 0.7393749080307546,
+          "test_auprc": 0.5059663654702312,
+          "test_brier": 0.1655636429786682,
+          "test_ece": 0.06795394957453275,
+          "test_cindex": 0.7118939225891687,
+          "reference_test_nll": 1.604149580001831,
+          "integrated_test_nll": 1.379612645788345,
+          "val_auc": 0.7139087784445578,
+          "physics_nll": 1.3576996932667291,
+          "relative_nll_improvement": -0.016139763918552357,
+          "selection_objective": "fixed_training_budget",
+          "training_steps": 3000
+        },
+        "gbt_residual_seed42": {
+          "model": "gbt_residual",
+          "seed": 42,
+          "integrated_test_nll": 1.3576996932667291,
+          "selected_residual_scale": 0.0,
+          "selection_objective": "integrated_time_varying_nll",
+          "physics_nll": 1.3576996932667291,
+          "relative_nll_improvement": 0.0
+        },
+        "physics_only_seed43": {
+          "model": "physics_only",
+          "seed": 43,
+          "integrated_test_nll": 1.3576996932667291,
+          "physics_nll": 1.3576996932667291,
+          "relative_nll_improvement": 0.0,
+          "selection_objective": "fixed_physics_oracle",
+          "training_steps": 0
+        },
+        "pg_gtpp_seed43": {
+          "model": "pg_gtpp",
+          "seed": 43,
+          "parameters": 175048,
+          "test_auc": 0.7390444797759629,
+          "test_auprc": 0.4975154061183072,
+          "test_brier": 0.1658691167831421,
+          "test_ece": 0.0686228008854054,
+          "test_cindex": 0.7115286002284825,
+          "reference_test_nll": 1.6037170886993408,
+          "integrated_test_nll": 1.3795594339117374,
+          "val_auc": 0.712298467871917,
+          "physics_nll": 1.3576996932667291,
+          "relative_nll_improvement": -0.01610057124813226,
+          "selection_objective": "fixed_training_budget",
+          "training_steps": 3000
+        },
+        "gbt_residual_seed43": {
+          "model": "gbt_residual",
+          "seed": 43,
+          "integrated_test_nll": 1.3576996932667291,
+          "selected_residual_scale": 0.0,
+          "selection_objective": "integrated_time_varying_nll",
+          "physics_nll": 1.3576996932667291,
+          "relative_nll_improvement": 0.0
+        },
+        "physics_only_seed44": {
+          "model": "physics_only",
+          "seed": 44,
+          "integrated_test_nll": 1.3576996932667291,
+          "physics_nll": 1.3576996932667291,
+          "relative_nll_improvement": 0.0,
+          "selection_objective": "fixed_physics_oracle",
+          "training_steps": 0
+        },
+        "pg_gtpp_seed44": {
+          "model": "pg_gtpp",
+          "seed": 44,
+          "parameters": 175048,
+          "test_auc": 0.7372409628720156,
+          "test_auprc": 0.5053509924019196,
+          "test_brier": 0.1652040332555771,
+          "test_ece": 0.06610012815134195,
+          "test_cindex": 0.7099785326287883,
+          "reference_test_nll": 1.60616934299469,
+          "integrated_test_nll": 1.3791868180445124,
+          "val_auc": 0.7099776212085412,
+          "physics_nll": 1.3576996932667291,
+          "relative_nll_improvement": -0.015826124793534856,
+          "selection_objective": "fixed_training_budget",
+          "training_steps": 3000
+        },
+        "gbt_residual_seed44": {
+          "model": "gbt_residual",
+          "seed": 44,
+          "integrated_test_nll": 1.3576996932667291,
+          "selected_residual_scale": 0.0,
+          "selection_objective": "integrated_time_varying_nll",
+          "physics_nll": 1.3576996932667291,
+          "relative_nll_improvement": 0.0
+        }
+      },
+      "physics_only_oracle_integrated_nll": 1.3576996932667291
+    },
+    "strength_5": {
+      "strength": 5.0,
+      "models": {
+        "physics_only_seed42": {
+          "model": "physics_only",
+          "seed": 42,
+          "integrated_test_nll": 1.9495479129654654,
+          "physics_nll": 1.9495479129654654,
+          "relative_nll_improvement": 0.0,
+          "selection_objective": "fixed_physics_oracle",
+          "training_steps": 0
+        },
+        "pg_gtpp_seed42": {
+          "model": "pg_gtpp",
+          "seed": 42,
+          "parameters": 175048,
+          "test_auc": 0.6875585184893122,
+          "test_auprc": 0.6268745418228031,
+          "test_brier": 0.21560506522655487,
+          "test_ece": 0.10996573226003459,
+          "test_cindex": 0.6584416846715323,
+          "reference_test_nll": 2.348790168762207,
+          "integrated_test_nll": 1.930220602368867,
+          "val_auc": 0.6733603324621315,
+          "physics_nll": 1.9495479129654654,
+          "relative_nll_improvement": 0.009913739728099044,
+          "selection_objective": "fixed_training_budget",
+          "training_steps": 3000
+        },
+        "gbt_residual_seed42": {
+          "model": "gbt_residual",
+          "seed": 42,
+          "integrated_test_nll": 1.9217732416714786,
+          "selected_residual_scale": 0.75,
+          "selection_objective": "integrated_time_varying_nll",
+          "physics_nll": 1.9495479129654654,
+          "relative_nll_improvement": 0.014246724129872058
+        },
+        "physics_only_seed43": {
+          "model": "physics_only",
+          "seed": 43,
+          "integrated_test_nll": 1.9495479129654654,
+          "physics_nll": 1.9495479129654654,
+          "relative_nll_improvement": 0.0,
+          "selection_objective": "fixed_physics_oracle",
+          "training_steps": 0
+        },
+        "pg_gtpp_seed43": {
+          "model": "pg_gtpp",
+          "seed": 43,
+          "parameters": 175048,
+          "test_auc": 0.6912447905189413,
+          "test_auprc": 0.6275111972836048,
+          "test_brier": 0.21573640406131744,
+          "test_ece": 0.11170816529358416,
+          "test_cindex": 0.6617014864760657,
+          "reference_test_nll": 2.348297595977783,
+          "integrated_test_nll": 1.9295129871321168,
+          "val_auc": 0.6683947155920636,
+          "physics_nll": 1.9495479129654654,
+          "relative_nll_improvement": 0.010276703486026835,
+          "selection_objective": "fixed_training_budget",
+          "training_steps": 3000
+        },
+        "gbt_residual_seed43": {
+          "model": "gbt_residual",
+          "seed": 43,
+          "integrated_test_nll": 1.9226032413322358,
+          "selected_residual_scale": 0.75,
+          "selection_objective": "integrated_time_varying_nll",
+          "physics_nll": 1.9495479129654654,
+          "relative_nll_improvement": 0.01382098457495405
+        },
+        "physics_only_seed44": {
+          "model": "physics_only",
+          "seed": 44,
+          "integrated_test_nll": 1.9495479129654654,
+          "physics_nll": 1.9495479129654654,
+          "relative_nll_improvement": 0.0,
+          "selection_objective": "fixed_physics_oracle",
+          "training_steps": 0
+        },
+        "pg_gtpp_seed44": {
+          "model": "pg_gtpp",
+          "seed": 44,
+          "parameters": 175048,
+          "test_auc": 0.6836369320907341,
+          "test_auprc": 0.6234727700617536,
+          "test_brier": 0.21824891865253448,
+          "test_ece": 0.11426310055564287,
+          "test_cindex": 0.6556955022365899,
+          "reference_test_nll": 2.350574493408203,
+          "integrated_test_nll": 1.9385125727620764,
+          "val_auc": 0.6705875651438619,
+          "physics_nll": 1.9495479129654654,
+          "relative_nll_improvement": 0.005660461140759049,
+          "selection_objective": "fixed_training_budget",
+          "training_steps": 3000
+        },
+        "gbt_residual_seed44": {
+          "model": "gbt_residual",
+          "seed": 44,
+          "integrated_test_nll": 1.9159425727629804,
+          "selected_residual_scale": 0.75,
+          "selection_objective": "integrated_time_varying_nll",
+          "physics_nll": 1.9495479129654654,
+          "relative_nll_improvement": 0.017237504130569296
+        }
+      },
+      "physics_only_oracle_integrated_nll": 1.9495479129654654
+    }
+  }
+}

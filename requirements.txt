@@ -1,0 +1,14 @@
+# PG-GTPP dependencies (Phases 1-5: simulator foundation through model architecture).
+# Python 3.11+ required.
+
+numpy>=1.26
+pandas>=2.2
+pyarrow>=14.0
+PyYAML>=6.0
+scipy>=1.11
+torch>=2.2
+
+# Recommended for the unit-test suite (see integration notes below).
+pytest>=8.0
+scikit-learn>=1.4
+joblib>=1.3

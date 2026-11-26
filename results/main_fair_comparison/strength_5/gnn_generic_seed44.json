@@ -1,0 +1,17 @@
+{
+  "model": "gnn_generic",
+  "seed": 44,
+  "parameters": 36135,
+  "test_auc": 0.5653011927997376,
+  "test_auprc": 0.4677350532721448,
+  "test_brier": 0.23638208210468292,
+  "test_ece": 0.05917217163940495,
+  "test_cindex": 0.5547163687533385,
+  "reference_test_nll": 2.0628983974456787,
+  "integrated_test_nll": 1.971223562799616,
+  "val_auc": 0.5565986443194418,
+  "physics_nll": 1.9495576351730683,
+  "relative_nll_improvement": -0.011113253199423504,
+  "selection_objective": "fixed_training_budget",
+  "training_steps": 3000
+}

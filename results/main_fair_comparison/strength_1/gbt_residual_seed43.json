@@ -1,0 +1,9 @@
+{
+  "model": "gbt_residual",
+  "seed": 43,
+  "integrated_test_nll": 1.5081137648593284,
+  "selected_residual_scale": 0.0,
+  "selection_objective": "integrated_time_varying_nll",
+  "physics_nll": 1.5081137648593284,
+  "relative_nll_improvement": 0.0
+}
